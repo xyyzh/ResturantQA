@@ -9,7 +9,7 @@ Original file is located at
 ##Load dataset
 """
 
-!pip install datasets
+#!pip install datasets
 
 from datasets import load_dataset
 
